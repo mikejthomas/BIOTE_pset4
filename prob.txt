@@ -1,0 +1,4 @@
+An explanation of finding the prob of BINARY hamming distance is explained below...We can adapt this to the quadrinary (ATCH) and length of 5.
+http://math.stackexchange.com/questions/1141613/probability-of-matching-sequences-and-hamming-distances
+
+Calculate in python and maybe adapt from pset2/hamming.py to calculate on greater scales.
